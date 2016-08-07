@@ -58,15 +58,15 @@ label{
 	display:block;
 }
 .logo h1 a {
-      color: #fff;
+    color: #fff;
     font-size: 6em;
     font-weight: 400;
     font-family: 'Abril Fatface', cursive;
 }
 .logo {
-       position: absolute;
+    position: absolute;
     z-index: 999;
-    left: 43%;
+    left: 25%;
     top: 35%;
 }
 .logo h1 a:hover{
